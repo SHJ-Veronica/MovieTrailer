@@ -99,8 +99,6 @@ a:HOVER{
 }
 
 #displaylist{
-	/* overflow:hidden; */
-	/* height:35%; */
 	background-color:rgba(0, 0, 0, 0.388235); 
 	box-shadow:rgba(0, 0, 0, 0.701961) 0px 0px 5px 0px;"
 }
@@ -111,10 +109,6 @@ a:HOVER{
 	float:left;
 	overflow-x:auto; 
 }
-/* 
-#arrow{
-	height: 50%;
-} */
 #more{
 	
 	margin-top:10%;
@@ -139,7 +133,7 @@ a:HOVER{
 	text-indent:100%;
 	overflow:hidden;
 	z-index: 9999;
-	margin-top:-160px;
+	margin-top:-30%;
 }
 .bx-controls-direction a.disabled {
 	display: none;
